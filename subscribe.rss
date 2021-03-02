@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Steve's Blog</title>
+    <link>https://lvwenzhuo2003.github.io/</link>
+    <description>Steve's Blog. I will update the blog at any time, please keep subscribing this feed. </description>
+    <language>en-us</language>
+    <managingEditor>lvwenzhuo2003@126.com</managingEditor>
+    <copyright>SteveLyu03</copyright>
+    <image>
+      <title>Steve's Blog</title>
+      <link>https://lvwenzhuo2003.github.io/</link>
+      <url>https://lvwenzhuo2003.github.io/avatar.jpg</url>
+    </image>
+    <item>
+      <title>Sample Passage</title>
+      <pubDate>Thu, 1 Jan 1970 00:08:00 +0800</pubDate>
+      <link>https://lvwenzhuo2003.github.io/passages/sample.html</link>
+      <author>lvwenzhuo2003@126.com</author>
+      <description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. ]]></description>
+    </item>
+  </channel>
+</rss>
