@@ -14,11 +14,12 @@
       <url>https://lvwenzhuo2003.github.io/avatar.jpg</url>
     </image>
     <item>
-      <title>Sample Passage</title>
-      <pubDate>Thu, 1 Jan 1970 00:08:00 +0800</pubDate>
-      <link>https://lvwenzhuo2003.github.io/passages/sample.html</link>
+      <title>Outliers Chapter 1</title>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0800</pubDate>
+      <link>https://lvwenzhuo2003.github.io/passages/Outliers/Outliers_1.html</link>
       <author>lvwenzhuo2003@126.com</author>
-      <description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. ]]></description>
+      <category>Outliers</category>
+      <description><![CDATA[This is the introduction about <em>Outliers Chapter 1. </em>]]></description>
     </item>
   </channel>
 </rss>
